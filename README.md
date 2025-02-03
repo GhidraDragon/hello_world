@@ -1,4 +1,10 @@
 #include<stdio.h>
+int main(void){return puts("hello world; does anyone really understand c?")==EOF;}
+
+![image](https://github.com/user-attachments/assets/5758c6df-e088-43af-8e1e-6fada15d9a8a)
+
+
+#include<stdio.h>
 int main(void){
     puts("hello world");
     return 0;
