@@ -1,3 +1,16 @@
+Current problem for smart.py
+
+# =============================================================================
+# CONFIGURATION:
+# -----------------------------------------------------------------------------
+# Assume we have the address of the 'admin' variable.
+# This address is stable if ASLR is disabled and the binary is not compiled as PIE.
+# You should determine the actual address (e.g., using objdump or gdb).
+#
+# For example purposes, we use: 0x0804a02c
+# -----------------------------------------------------------------------------
+admin_addr = 0x0804a02c  # <<--- UPDATE THIS ADDRESS AS NEEDED
+
 #include<stdio.h>
 int main(void){return puts("hello world; does anyone really understand c?")==EOF;}
 
