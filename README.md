@@ -11,6 +11,9 @@ hello world
 
 ![image](https://github.com/user-attachments/assets/e9c72dc6-f491-4469-8576-a59f29016a07)
 
+**TLDR both methods are potentially vulnerable if you change the source code.... or somehow and I'm a noob with Ghidra but is it possible??? **
+
+
 When printing a fixed, literal string like "hello world", both of these implementations are secure in practice. However, there are subtle differences that are important when you move beyond such a simple case.
 
 Below are two full versions of the code:
