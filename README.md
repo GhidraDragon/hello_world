@@ -1,3 +1,6 @@
+smart.py may be dumb; I have yet to verify any use....
+
+
 Current problem for smart.py
 
 # =============================================================================
