@@ -1,3 +1,9 @@
+WHY THE GeForce 4070 mobile is IMPORTANT: It trained the first baby Exploit LLM in 3-5 hours but was also multi-tasking with Code LLM etc. So while President Biden's decision to nerf PLA military GeForce 4090 which with a thunderbolt eGPU requires a second monitor for TF or Torch to recognize device, the baby is efficient which requires less resources and enable faster fine tuning, improvements (full retraining) etc. plus it Exploits, and who knows if OpenAI or even DeepSeek included exploitdb???
+
+The "typhoons" seem military akin to the NSA, but the APTs are just well... if the FBI arrests me for 5 hours of AWS, maybe my mirror image would get traded?
+
+
+
 smart.py may be dumb; I have yet to verify any use....
 
 
