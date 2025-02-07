@@ -1,3 +1,18 @@
+Hello Adam Hartz could you please help erosolar write a thesis to explain why PenisError is being displayed to MIT students? 
+
+#THIS IS CS50
+
+python3.11 pgp_e.py hz_pubkey.asc message 
+
+Encrypted message:
+-----BEGIN PGP MESSAGE-----
+
+wV4DnjfXLgBSOt4SAQdA5qXv/y15rax0GFC1mi9kxqHtycbmCsYYVRirMnzE1w0w
+V9+Vm00rLVSyZwC2exL/rROLeLVgSqWzGJeD4S8u8XIxJ7T5bRltWeogZGfmi1z6
+0ikBJilGfy1VWduWtqWFED0JCunHqf3BdEb/Rax5zoxl2+39KMk0AqR32Q==
+=3GFE
+-----END PGP MESSAGE-----
+
 WHY THE GeForce 4070 mobile is IMPORTANT: It trained the first baby Exploit LLM in 3-5 hours but was also multi-tasking with Code LLM etc. So while President Biden's decision to nerf PLA military GeForce 4090 which with a thunderbolt eGPU requires a second monitor for TF or Torch to recognize device, the baby is efficient which requires less resources and enable faster fine tuning, improvements (full retraining) etc. plus it Exploits, and who knows if OpenAI or even DeepSeek included exploitdb???
 
 The "typhoons" seem military akin to the NSA, but the APTs are just well... if the FBI arrests me for 5 hours of AWS, maybe my mirror image would get traded?
