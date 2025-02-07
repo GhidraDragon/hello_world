@@ -13,6 +13,9 @@ V9+Vm00rLVSyZwC2exL/rROLeLVgSqWzGJeD4S8u8XIxJ7T5bRltWeogZGfmi1z6
 =3GFE
 -----END PGP MESSAGE-----
 
+![merged_apple_fbi_20250206_035259_bf957041](https://github.com/user-attachments/assets/b1519c9d-dbf0-43bb-bdd2-0dec9e93bf10)
+
+
 WHY THE GeForce 4070 mobile is IMPORTANT: It trained the first baby Exploit LLM in 3-5 hours but was also multi-tasking with Code LLM etc. So while President Biden's decision to nerf PLA military GeForce 4090 which with a thunderbolt eGPU requires a second monitor for TF or Torch to recognize device, the baby is efficient which requires less resources and enable faster fine tuning, improvements (full retraining) etc. plus it Exploits, and who knows if OpenAI or even DeepSeek included exploitdb???
 
 The "typhoons" seem military akin to the NSA, but the APTs are just well... if the FBI arrests me for 5 hours of AWS, maybe my mirror image would get traded?
