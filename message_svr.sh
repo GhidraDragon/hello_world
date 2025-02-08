@@ -1,0 +1,1 @@
+python3.11 pgp_e.py svr.asc message > message_to_svr.txt
