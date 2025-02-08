@@ -1,0 +1,1 @@
+python3.11 pgp_e.py hz_pubkey.asc message
