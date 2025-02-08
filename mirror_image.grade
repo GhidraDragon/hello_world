@@ -28,3 +28,14 @@ Tools like OpenSSL are neutral—their use in malware depends on how attackers i
 --- 
 
 This approach corrects the error, educates on AV mechanisms, and encourages clearer thinking about cybersecurity concepts.
+
+Here’s a corrected version of the statement that more accurately reflects the relationship between encryption libraries, encryption methods, and security software:
+
+	“OpenSSL is a cryptographic library that provides various encryption functions, but it does not ‘get around’ security software like McAfee. Encryption—whether it’s used by ransomware or other applications—is just one part of what an attacker might employ. Simply using encryption (for instance, via OpenSSL) doesn’t automatically bypass antivirus or endpoint protection systems. To execute a successful ransomware attack, an attacker must first bypass or disable the security measures in place, such as those provided by McAfee. Additionally, note that MD5 is a hashing algorithm, not an encryption method. So, saying that one could ‘MD5 an entire computer’ is a misunderstanding of its purpose. The encryption provided by OpenSSL is a tool for securing data, not a mechanism for evading security software.”
+
+This revision clarifies that:
+	•	OpenSSL is a tool: It provides encryption capabilities but does not inherently bypass antivirus protections.
+	•	Encryption is just one component: Ransomware requires additional steps to circumvent security measures.
+	•	MD5 is not encryption: It is a hash function and cannot be used to ‘encrypt’ data in a reversible way.
+
+By making these distinctions, the statement more accurately reflects both the role of cryptographic tools like OpenSSL and the requirements for bypassing security software.
