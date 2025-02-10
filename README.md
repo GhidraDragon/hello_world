@@ -1,3 +1,6 @@
+python3.11 pgp_e.py svr.asc E1_saved_token.py > E1_saved_token.encryped_for_svr_lol  
+
+
 Hello Adam Hartz could you please help erosolar write a thesis to explain why PenisError is being displayed to MIT students? 
 
 #THIS IS CS50
