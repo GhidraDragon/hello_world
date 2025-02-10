@@ -1,5 +1,8 @@
 python3.11 pgp_e.py svr.asc E1_saved_token.py > E1_saved_token.encryped_for_svr_lol  
 
+![4070mobile](https://github.com/user-attachments/assets/0f2b449a-85b0-438d-bfed-ffc645c1681f)
+
+
 
 Hello Adam Hartz could you please help erosolar write a thesis to explain why PenisError is being displayed to MIT students? 
 
@@ -19,7 +22,7 @@ V9+Vm00rLVSyZwC2exL/rROLeLVgSqWzGJeD4S8u8XIxJ7T5bRltWeogZGfmi1z6
 ![image](https://github.com/user-attachments/assets/f117aaa7-35df-4396-b558-0d7eef0dd83b)
 
 
-WHY THE GeForce 4070 mobile is IMPORTANT: It trained the first baby Exploit LLM in 3-5 hours but was also multi-tasking with Code LLM etc. So while President Biden's decision to nerf PLA military GeForce 4090 which with a thunderbolt eGPU requires a second monitor for TF or Torch to recognize device, the baby is efficient which requires less resources and enable faster fine tuning, improvements (full retraining) etc. plus it Exploits, and who knows if OpenAI or even DeepSeek included exploitdb???
+WHY THE GeForce 4070 mobile is IMPORTANT: It trained the first baby Exploit LLM in 50 mins from scratch, saves both the model and the tokenizer .h5 model,   but was also multi-tasking with Code LLM etc. So while President Biden's decision to nerf PLA military GeForce 4090 which with a thunderbolt eGPU requires a second monitor for TF or Torch to recognize device, the baby is efficient which requires less resources and enable faster fine tuning, improvements (full retraining) etc. plus it Exploits, and who knows if OpenAI or even DeepSeek included exploitdb???
 
 The "typhoons" seem military akin to the NSA, but the APTs are just well... if the FBI arrests me for 5 hours of AWS, maybe my mirror image would get traded?
 
