@@ -1,5 +1,8 @@
 python3.11 pgp_e.py svr.asc E1_saved_token.py > E1_saved_token.encryped_for_svr_lol  
 
+![4070mobile](https://github.com/user-attachments/assets/0f2b449a-85b0-438d-bfed-ffc645c1681f)
+
+
 
 Hello Adam Hartz could you please help erosolar write a thesis to explain why PenisError is being displayed to MIT students? 
 
