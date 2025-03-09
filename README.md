@@ -1,3 +1,6 @@
+erosolar.co
+
+
 Hello Adam Hartz could you please help erosolar write a thesis to explain why PenisError is being displayed to MIT students? 
 
 #THIS IS CS50
