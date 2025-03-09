@@ -1,1 +1,0 @@
-gcc -o vuln vuln.c -O0 -fno-stack-protector -no-pie -Wall -Wextra -Wno-format-security
