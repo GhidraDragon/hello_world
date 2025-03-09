@@ -1,4 +1,6 @@
-erosolar.co
+[erosolar.co](https://erosolar.co/)
+
+![image](https://github.com/user-attachments/assets/34ec9976-c220-4c01-bc82-e5d80c3bc9a0)
 
 
 Hello Adam Hartz could you please help erosolar write a thesis to explain why PenisError is being displayed to MIT students? 
